@@ -10,9 +10,8 @@
         android:id="@+id/textView6"
         android:layout_width="332dp"
         android:layout_height="46dp"
-        android:layout_marginTop="5dp"
+        android:layout_marginTop="12dp"
         android:text="@string/country_nigeria"
-        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2" />
@@ -21,9 +20,8 @@
         android:id="@+id/textView5"
         android:layout_width="332dp"
         android:layout_height="46dp"
-        android:layout_marginTop="5dp"
-        android:text="@string/phone_number_08134919897"
-        android:textSize="20sp"
+        android:layout_marginTop="8dp"
+        android:text="@string/phone_number_08106931300"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
@@ -32,20 +30,18 @@
         android:id="@+id/textView4"
         android:layout_width="332dp"
         android:layout_height="46dp"
-        android:layout_marginTop="5dp"
-        android:text="@string/email_ajitata6f_gmail_com"
-        android:textSize="20sp"
+        android:layout_marginTop="80dp"
+        android:text="@string/email_lahamisuahmed_gmail_com"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
     <TextView
         android:id="@+id/textView3"
         android:layout_width="332dp"
         android:layout_height="46dp"
-        android:layout_marginTop="5dp"
-        android:text="@string/slack_username_ajitata6f"
-        android:textSize="20sp"
+        android:layout_marginTop="8dp"
+        android:text="@string/slack_username_devlahm"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
@@ -61,7 +57,7 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:src="@drawable/ajitata"
+        android:src="@drawable/hamisu"
         android:contentDescription="@string/todo" />
 
     <TextView
@@ -70,7 +66,6 @@
         android:layout_height="39dp"
         android:layout_marginTop="4dp"
         android:text="@string/user_name"
-        android:textSize="15sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
@@ -89,9 +84,8 @@
         android:id="@+id/textView2"
         android:layout_width="332dp"
         android:layout_height="46dp"
-        android:layout_marginTop="5dp"
+        android:layout_marginTop="20dp"
         android:text="@string/track_android"
-        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/name_text_view" />

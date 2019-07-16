@@ -1,15 +1,14 @@
 <resources>
-    <string name="app_name">ALC CHALLENGE</string>
+    <string name="app_name">ALCCHALLENGE</string>
     <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
     <string name="about_alc">ABOUT ALC</string>
     <string name="my_profile">MY PROFILE</string>
     <string name="name">text_view_name</string>
     <string name="todo">TODO</string>
-    <string name="user_name">Adamu Abdulaziz</string>
+    <string name="user_name">Lawal Ahmed Hamisu</string>
     <string name="country_nigeria">Country: Nigeria</string>
     <string name="track_android">Track: Android</string>
-    <string name="email_ajitata6f_gmail_com">Email: ajitata6f@gmail.com</string>
-    <string name="phone_number_08134919897">Phone Number: 08134919897</string>
-    <string name="slack_username_ajitata6f">Slack Username: ajitata6f</string>
-    <string name="copyright_ajitata">\ @copyright ajitata</string>
+    <string name="email_lahamisuahmed_gmail_com">Email: lahamisuahmed@gmail.com</string>
+    <string name="phone_number_08106931300">Phone Number: 08106931300</string>
+    <string name="slack_username_devlahm">Slack Username: DevLahm</string>
 </resources>
